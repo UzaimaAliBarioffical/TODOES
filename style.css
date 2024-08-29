@@ -32,6 +32,7 @@ button{
     background-color: aqua;
     color: #050505;
     font-weight: bolder;
+    border: 2px solid black;
     
 }
 input{
